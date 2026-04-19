@@ -1,0 +1,11 @@
+{
+  "name": "Braskil",
+  "website": "https://x.com/BraskilCoin",
+  "description": "Braskil (BSK) is a BEP20 token on BNB Smart Chain.",
+  "explorer": "https://bscscan.com/token/0x23D2d07A2450dd64F00284CCe489aEAd2Edbe5da",
+  "type": "BEP20",
+  "symbol": "BSK",
+  "decimals": 2,
+  "status": "active",
+  "id": "0x23D2d07A2450dd64F00284CCe489aEAd2Edbe5da"
+}
